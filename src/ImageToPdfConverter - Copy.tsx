@@ -111,7 +111,7 @@ export default function ImageToPdfConverter(): JSX.Element {
 
   return (
     <div className="p-4 max-w-3xl mx-auto">
-      <h1 className="text-2xl font-semibold mb-3">Image → PDF Converter</h1>
+      <h1 className="text-2xl font-semibold mb-3">BillForge</h1>
 
       <p className="mb-2">Select one or more JPEG/PNG images and convert each image to its own PDF.</p>
 
